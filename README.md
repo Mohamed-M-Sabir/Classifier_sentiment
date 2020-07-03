@@ -11,3 +11,8 @@
 
 
 
+## Scatterplot
+![Number of Retweets vs Net Score](https://user-images.githubusercontent.com/45952322/86441843-215a1e00-bd0d-11ea-9c9f-0f26d7af30d1.png)
+
+## Code Owner
+###### Mohamed M.Saber. mohamed.m.sabir@gmail.com
